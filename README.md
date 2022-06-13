@@ -180,7 +180,7 @@ if (Meteor.isClient) {
 # How to run localhost
 
 * Install node.js - http://nodejs.org/download
-* Clone this repository - `git clone git@github.com:vanilla-masker/vanilla-masker.git`
+* Clone this repository - `git clone https://github.com/yor-so/vanilla-masker`
 * Install Grunt - `npm install -g grunt-cli`
 * Install Grunt dependencies - `cd vanilla-masker && npm install`
 * Running development mode - `grunt dev`
