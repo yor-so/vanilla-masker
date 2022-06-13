@@ -8,7 +8,7 @@ Now you can use a simple and pure javascript lib to mask your input elements, wi
 Let's live a lightweight client-side world using micro libraries as VanillaMasker is!
 Don't worry about where this will work, because this is a cross-browser and cross-device library. And if you find any bug, please let us know about it [reporting an issue](https://github.com/vanilla-masker/vanilla-masker/issues).
 
-If you wanna see how this lib works, click to test this [demo page](https://vanilla-masker.github.io/vanilla-masker/demo.html).
+If you wanna see how this lib works, click to test this [demo page](https://yor-so.github.io/vanilla-masker/public/index.html).
 
 # How to install
 
@@ -199,8 +199,6 @@ if (Meteor.isClient) {
 
 # TODO - we need pull requests :]
 
-* Test Opera mini browser;
-* Beautify Demo Page;
 * Bind mask using `data-vm` attributes;
 
 # Compatibility
